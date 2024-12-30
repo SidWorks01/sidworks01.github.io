@@ -30,7 +30,7 @@ This paper presents the system description of our entry for the COLING 2025 RegN
 
 ---
 
-##### Figure 2: Dimensions of a sausage dog
+##### Figure 
 
 ![Paper](picture2.png)
 
