@@ -59,7 +59,7 @@ params:
               url: papers/
             - name: Projects
               url: courses/
-            - name: About Me and my vision
+            - name: About Me
               url: data/
             - name: Blogs
               url: books/
