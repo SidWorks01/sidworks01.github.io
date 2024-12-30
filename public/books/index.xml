@@ -1,19 +1,43 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Books on Moritz-Maria von Igelfeld</title>
-    <link>https://pascalmichaillat.org/hugo-website/books/</link>
-    <description>Recent content in Books on Moritz-Maria von Igelfeld</description>
-    <generator>Hugo -- 0.139.0</generator>
+    <title>Blogs on Siddhant Gupta</title>
+    <link>https://siddhantgupta.ai/hugo-website/books/</link>
+    <description>Recent content in Blogs on Siddhant Gupta</description>
+    <generator>Hugo -- 0.140.1</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 08 May 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://pascalmichaillat.org/hugo-website/books/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://siddhantgupta.ai/hugo-website/books/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Portugese Irregular Verbs</title>
-      <link>https://pascalmichaillat.org/hugo-website/books/book1/</link>
-      <pubDate>Wed, 01 Jan 1997 00:00:00 +0000</pubDate>
-      <guid>https://pascalmichaillat.org/hugo-website/books/book1/</guid>
-      <description>This book discusses Portugese irregular verbs in great details.</description>
+      <title>Blog</title>
+      <link>https://siddhantgupta.ai/hugo-website/books/book1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://siddhantgupta.ai/hugo-website/books/book1/</guid>
+      <description>&lt;hr&gt;
+&lt;h4 id=&#34;description&#34;&gt;Description&lt;/h4&gt;
+&lt;hr&gt;
+&lt;h4 id=&#34;praise&#34;&gt;Praise&lt;/h4&gt;
+&lt;hr&gt;
+&lt;h4 id=&#34;view&#34;&gt;View&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;&#34;&gt;Chapter 1: &lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;&#34;&gt;Chapter 2: &lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;&#34;&gt;Chapter 3: &lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h4 id=&#34;excerpt-&#34;&gt;Excerpt :&lt;/h4&gt;
+&lt;p&gt;$$$$&lt;/p&gt;
+&lt;p&gt;$$$$&lt;/p&gt;
+&lt;p&gt;$$$$&lt;/p&gt;
+&lt;hr&gt;
+&lt;h4 id=&#34;citation&#34;&gt;Citation&lt;/h4&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-BibTeX&#34; data-lang=&#34;BibTeX&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#0a0;text-decoration:underline&#34;&gt;@book&lt;/span&gt;{&lt;span style=&#34;color:#f00;background-color:#faa&#34;&gt;},&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;author &lt;span style=&#34;color:#f00;background-color:#faa&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#f00;background-color:#faa&#34;&gt;{&lt;/span&gt;}&lt;span style=&#34;color:#aaa;font-style:italic&#34;&gt;,&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#aaa;font-style:italic&#34;&gt;year = {},&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#aaa;font-style:italic&#34;&gt;title = {},&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#aaa;font-style:italic&#34;&gt;publisher = {},&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#aaa;font-style:italic&#34;&gt;address = {},&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#aaa;font-style:italic&#34;&gt;url = {}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;hr&gt;</description>
     </item>
   </channel>
 </rss>

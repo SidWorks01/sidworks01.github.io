@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Nemo on Siddhant Gupta</title>
+    <link>https://siddhantgupta.ai/hugo-website/tags/nemo/</link>
+    <description>Recent content in Nemo on Siddhant Gupta</description>
+    <generator>Hugo -- 0.140.1</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 30 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://siddhantgupta.ai/hugo-website/tags/nemo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Lexical Reranking of Semantic Retrieval (LeSeR) for Regulatory Question Answering</title>
+      <link>https://siddhantgupta.ai/hugo-website/papers/paper2/</link>
+      <pubDate>Mon, 30 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://siddhantgupta.ai/hugo-website/papers/paper2/</guid>
+      <description>Accepted at FINLP-FNP-LLMFinLegal @ COLING 2025 | Secured 4th position in the workshop </description>
+    </item>
+  </channel>
+</rss>

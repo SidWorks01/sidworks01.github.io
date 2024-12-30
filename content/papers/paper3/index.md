@@ -1,18 +1,18 @@
 ---
-title: "Your Inner Hedgehog" 
-date: 2021-04-06
-lastmod: 2024-10-18
-tags: ["social psychology","inner hedgehog","academia","experimental psychology","invasive thoughts"]
-author: ["Hilda Schreiber-Ziegler", "Moritz-Maria von Igelfeld"]
-description: "This paper describes the inner hedgehog, a psychological condition widespread in academia. Published in the Journal of Socio-Experimental Psychology, 2021." 
-summary: "Using several case studies, this paper describes the inner hedgehog, a psychological condition widespread in academic occupations. The condition has lasting consequences and no known cure." 
+title: "Sequential Learning for Claim Verification and Explanation Generation in Financial Domains" 
+date: 2024-12-30
+lastmod: 2024-12-30
+tags: ["Qwen","Mistral", "Gemma-2", "LLMs", "LoRA"]
+author: ["Jebish Purbey", "Siddhant Gupta", "Nikhil Manali", "Siddartha Pullakhandam", "Drishti Sharma", "Ashay Srivastava", "Ram Mohan Rao Kadiyala"]
+description: "Accepted at RegNLP @ COLING 2025 | Secured 3rd position in the workshop "
+summary: "Accepted at RegNLP @ COLING 2025 | Secured 3rd position in the workshop. Our system for the COLING 2025 FMD challenge focused on detecting financial misinformation using large language models (Qwen, Mistral, Gemma-2) combined with pre-processing and sequential learning. It not only classified fraudulent content with an F1-score of 0.8283 but also generated clear explanations, achieving a ROUGE-1 score of 0.7253. This work demonstrates the potential of LLMs in combating financial misinformation, improving transparency, and highlights areas for future enhancements in robustness and domain adaptation."
 cover:
-    image: "paper3.png"
-    alt: "Vizualisation of an inner hedgehog"
+    image: "picture3.png"
+    alt: "Sequential Learning for Claim Verification and Explanation Generation in Financial Domains"
     relative: false
 editPost:
-    URL: "https://github.com/pmichaillat/hugo-website"
-    Text: "Journal of Socio-Experimental Psychology"
+    URL: "https://arxiv.org/abs/2412.00549"
+    Text: "arXiv preprint"
 
 ---
 
@@ -21,33 +21,28 @@ editPost:
 ##### Download
 
 + [Paper](paper3.pdf)
-+ [Raw data](https://github.com/pmichaillat/recession-indicator)
 
 ---
 
 ##### Abstract
 
-Using several case studies, this paper describes the inner hedgehog, a psychological condition widespread in academic occupations. The condition has lasting consequences and no known cure. Mauris tincidunt quam a libero consequat, nec pharetra nunc tristique. Pellentesque eget ipsum ut dui laoreet congue ut nec nulla. Nulla facilisi. Sed consequat, odio ac aliquet tempor, turpis augue auctor mauris, at malesuada sem dolor eget libero. Nullam iaculis malesuada risus, id fringilla quam sagittis ac. Fusce congue vel ex et facilisis. Integer volutpat eros ut urna efficitur, id efficitur sapien pharetra.
+This paper presents the system description of our entry for the COLING 2025 FMD challenge, focusing on misinformation detection in financial domains. We experimented with a combination of large language models, including Qwen, Mistral, and Gemma-2, and leveraged pre-processing and sequential learning for not only identifying fraudulent financial content but also generating coherent, and concise explanations that clarify the rationale behind the classifications. Our approach achieved competitive results with an F1-score of 0.8283 for classification, and ROUGE-1 of 0.7253 for explanations. This work highlights the transformative potential of LLMs in financial applications, offering insights into their capabilities for combating misinformation and enhancing transparency while identifying areas for future improvement in robustness and domain adaptation.
 
 ---
 
 ##### Citation
 
-Schreiber-Ziegler, Hilda, and Moritz-Maria von Igelfeld. 2021. "Your Inner Hedgehog." *Journal of Socio-Experimental Psychology* 131 (2): 1299–1302.
+Jebish Purbey, Siddhant Gupta, Nikhil Manali, Siddartha Pullakhandam, Drishti Sharma, Ashay Srivastava, Ram Mohan Rao Kadiyala. "SeQwen at the Financial Misinformation Detection Challenge Task: Sequential Learning for Claim Verification and Explanation Generation in Financial Domains" arXiv preprint arXiv:2412.00549 (2024).
 
 ```BibTeX
-@article{SZI21,
-author = {Hilda Schreiber-Ziegler and Moritz-Maria von Igelfeld},
-year = {2021},
-title ={Your Inner Hedgehog},
-journal = {Journal of Socio-Experimental Psychology},
-volume = {131},
-number = {2},
-pages = {1299--1302}}
+@article{Purbey2024,
+author = {Jebish Purbey and Siddhant Gupta and Nikhil Manali and Siddartha Pullakhandam and Drishti Sharma and Ashay Srivastava and Ram Mohan Rao Kadiyala},
+year = {2024},
+title = {SeQwen at the Financial Misinformation Detection Challenge Task: Sequential Learning for Claim Verification and Explanation Generation in Financial Domains},
+journal = {arXiv preprint},
+volume = {arXiv:2412.00549}
+}
 ```
 
 ---
 
-##### Related material
-
-+ [Nontechnical summary](https://www.alexandermccallsmith.com/book/your-inner-hedgehog)

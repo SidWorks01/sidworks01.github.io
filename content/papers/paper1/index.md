@@ -1,18 +1,18 @@
 ---
-title: "Unusual Uses For Olive Oil" 
-date: 2013-01-15
-lastmod: 2024-07-12
-tags: ["philology","oleic science","history of oil","Mediterranean world"]
-author: ["Detlev Amadeus Unterholzer","Moritz-Maria von Igelfeld"]
-description: "This paper reviews unusual uses for olive oil throughout the Mediterranean world. Published in the Journal of Oleic Science, 2013." 
-summary: "This paper reviews unusual uses for olive oil throughout the Mediterranean world. It highlights in particular the challengs arising from excessive or unorthodox consumption of olive oil." 
+title: "Multilingual Hate Speech Detection and Target Identification in Devanagari-Scripted Languages" 
+date: 2024-12-30
+lastmod: 2024-12-30
+tags: ["Multilingual","LLMs"]
+author: ["Siddhant Gupta","Siddh Singhal", "Azmine Toushik Wasi"]
+description: "Multilingual Hate Speech Detection and Target Identification in Devanagari-Scripted Languages" 
+summary: "Accepted at Chipsal @ COLING 2025. This study addresses hate speech detection and target identification in Devanagari-scripted languages (Hindi, Marathi, Nepali, Bhojpuri, Sanskrit). Subtask B focuses on detecting hate speech, while Subtask C identifies specific targets, such as individuals or communities. The proposed **MultilingualRobertaClass** model, based on the ia-multilingual-transliterated-roberta transformer, uses contextualized embeddings for multilingual and transliterated contexts. It achieved 88.40% accuracy in Subtask B and 66.11% in Subtask C on the test set." 
 cover:
-    image: "paper1.png"
-    alt: "Some Uses For Olive Oil"
+    image: "picture1.png"
+    alt: "Multilingual Hate Speech Detection and Target Identification in Devanagari-Scripted Languages"
     relative: false
 editPost:
-    URL: "https://github.com/pmichaillat/hugo-website"
-    Text: "Journal of Oleic Science"
+    URL: "https://arxiv.org/abs/2412.17947"
+    Text: "arXiv preprint"
 
 ---
 
@@ -21,42 +21,36 @@ editPost:
 ##### Download
 
 + [Paper](paper1.pdf)
-+ [Online appendix](appendix1.pdf)
-+ [Code and data](https://github.com/pmichaillat/feru)
+
 
 ---
 
 ##### Abstract
 
-This paper reviews unusual uses for olive oil throughout the Mediterranean world. It highlights in particular the challengs arising from excessive or unorthodox consumption of olive oil. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
+This work focuses on two subtasks related to hate speech detection and target identification in Devanagari-scripted languages, specifically Hindi, Marathi, Nepali, Bhojpuri, and Sanskrit. Subtask B involves detecting hate speech in online text, while Subtask C requires identifying the specific targets of hate speech, such as individuals, organizations, or communities. We propose the MultilingualRobertaClass model, a deep neural network built on the pretrained multilingual transformer model ia-multilingual-transliterated-roberta, optimized for classification tasks in multilingual and transliterated contexts. The model leverages contextualized embeddings to handle linguistic diversity, with a classifier head for binary classification. We received 88.40% accuracy in Subtask B and 66.11% accuracy in Subtask C, in the test set.
 ---
 
 ##### Figure 6: Some Uses For Olive Oil
 
-![](paper1.png)
+![Paper](picture1.png)
 
 ---
 
 ##### Citation
 
-Unterholzer, Detlev A., and  Moritz-Maria von Igelfeld. 2013. "Unusual Uses For Olive Oil." *Journal of Oleic Science* 34 (1): 449–489. http://www.alexandermccallsmith.com/book/unusual-uses-for-olive-oil.
+Gupta, Siddhant; Singhal, Siddh; Wasi, Azmine Toushik. "Multilingual Hate Speech Detection and Target Identification in Devanagari-Scripted Languages." arXiv preprint arXiv:2412.17947, 2024.
 
 ```BibTeX
-@article{UI13,
-author = {Detlev A. Unterholzer and Moritz-Maria von Igelfeld},
-year = {2013},
-title ={Unusual Uses For Olive Oil},
-journal = {Journal of Oleic Science},
-volume = {34},
-number = {1},
-pages = {449--489},
-url = {http://www.alexandermccallsmith.com/book/unusual-uses-for-olive-oil}}
+@article{arxiv2412.17947,
+  author  = {Siddhant Gupta and Siddh Singhal and Azmine Toushik Wasi},  
+  title   = {Multilingual Hate Speech Detection and Target Identification in Devanagari-Scripted Languages},  
+  journal = {arXiv preprint},  
+  year    = {2024},  
+  eprint  = {2412.17947},  
+  url     = {https://arxiv.org/abs/2412.17947}  
+}
 ```
 
 ---
 
-##### Related material
 
-+ [Presentation slides](presentation1.pdf)
-+ [Summary of the paper](https://www.penguinrandomhouse.com/books/110403/unusual-uses-for-olive-oil-by-alexander-mccall-smith/)

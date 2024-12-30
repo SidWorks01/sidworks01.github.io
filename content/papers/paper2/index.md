@@ -1,18 +1,18 @@
 ---
-title: "The Finer Points of Sausage Dogs" 
-date: 2004-12-28
-lastmod: 2024-07-12
-tags: ["zoology","sausage dogs","canine pulmonary efficiency","canine science","experimental zoology"]
-author: ["Florianus Prinzel", "Moritz-Maria von Igelfeld"]
-description: "This paper studies the pulmonary efficiency of sausage dogs. Published in the Journal of Canine Science, 2004." 
-summary: "This paper studies the pulmonary efficiency of sausage dogs through several experiments." 
+title: "Lexical Reranking of Semantic Retrieval (LeSeR) for Regulatory Question Answering" 
+date: 2024-12-30
+lastmod: 2024-12-30
+tags: ["RAG","BM25","Gemma-2","Qwen2.5","Mistral", "Nemo"]
+author: ["Jebish Purbey", "Drishti Sharma", "Siddhant Gupta", "Khawaja Murad", "Siddartha Pullakhandam", "Ram Mohan Rao Kadiyala"]
+description: "Accepted at FINLP-FNP-LLMFinLegal @ COLING 2025 | Secured 4th position in the workshop "
+summary: "Accepted at FINLP-FNP-LLMFinLegal @ COLING 2025 | Secured 4th position in the workshop. Our system for the COLING 2025 RegNLP RIRAG challenge focused on advanced information retrieval and answer generation in regulatory domains. We combined embedding models (Stella, BGE, CDE, Mpnet) with fine-tuning and reranking to retrieve relevant documents. Our novel approach, LeSeR, achieved strong results with a recall@10 of 0.8201 and map@10 of 0.6655. This work demonstrates the potential of NLP techniques in regulatory applications, particularly for retrieval-augmented generation systems, and identifies areas for future improvements in robustness and domain adaptation"
 cover:
-    image: "paper2.png"
-    alt: "Dimensions of a sausage dog"
+    image: "picture2.png"
+    alt: "Lexical Reranking of Semantic Retrieval (LeSeR) for Regulatory Question Answering"
     relative: false
 editPost:
-    URL: "https://github.com/pmichaillat/hugo-website"
-    Text: "Journal of Canine Science"
+    URL: "https://arxiv.org/abs/2412.06009"
+    Text: "arXiv preprint"
 
 ---
 
@@ -21,42 +21,33 @@ editPost:
 ##### Download
 
 + [Paper](paper2.pdf)
-+ [Online appendix](appendix2.pdf)
-+ [Code and data](https://github.com/pmichaillat/wunk)
 
 ---
 
 ##### Abstract
 
-This paper studies the pulmonary efficiency of sausage dogs. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur: $\sin(\theta) = x^2 - \exp(1+\chi)$. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor $\zeta$ incididunt ut labore et dolore magna aliqua: $p(x) = \int \cos(\zeta) d\zeta - \theta$. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+This paper presents the system description of our entry for the COLING 2025 RegNLP RIRAG (Regulatory Information Retrieval and Answer Generation) challenge, focusing on leveraging advanced information retrieval and answer generation techniques in regulatory domains. We experimented with a combination of embedding models, including Stella, BGE, CDE, and Mpnet, and leveraged fine-tuning and reranking for retrieving relevant documents in top ranks. We utilized a novel approach, LeSeR, which achieved competitive results with a recall@10 of 0.8201 and map@10 of 0.6655 for retrievals. This work highlights the transformative potential of natural language processing techniques in regulatory applications, offering insights into their capabilities for implementing a retrieval augmented generation system while identifying areas for future improvement in robustness and domain adaptation.
 
 ---
 
 ##### Figure 2: Dimensions of a sausage dog
 
-![](paper2.png)
+![Paper](picture2.png)
 
 ---
 
 ##### Citation
 
-Prinzel, Florianus, and Moritz-Maria von Igelfeld. 2004. "The Finer Points of Sausage Dogs." *Journal of Canine Science* 43 (2): 89–109. http://www.alexandermccallsmith.com/book/the-finer-points-of-sausage-dogs.
+Jebish Purbey, Drishti Sharma, Siddhant Gupta, Khawaja Murad, Siddartha Pullakhandam, Ram Mohan Rao Kadiyala. "1-800-SHARED-TASKS at RegNLP: Lexical Reranking of Semantic Retrieval (LeSeR) for Regulatory Question Answering" arXiv preprint arXiv:2412.00549 (2024).
 
 ```BibTeX
-@article{PI04,
-author = {Florianus Prinzel and Moritz-Maria von Igelfeld},
-year = {2004},
-title ={The Finer Points of Sausage Dogs},
-journal = {Journal of Canine Science},
-volume = {43},
-number = {2},
-pages = {89--109},
-url = {http://www.alexandermccallsmith.com/book/the-finer-points-of-sausage-dogs}}
+@article{Purbey2024,
+author = {Jebish Purbey and Drishti Sharma and Siddhant Gupta and Khawaja Murad and Siddartha Pullakhandam and Ram Mohan Rao Kadiyala},
+year = {2024},
+title = {1-800-SHARED-TASKS at RegNLP: Lexical Reranking of Semantic Retrieval (LeSeR) for Regulatory Question Answering},
+journal = {arXiv preprint},
+volume = {arXiv:2412.00549}
+}
 ```
 
 ---
-
-##### Related material
-
-+ [Presentation slides](presentation2.pdf)
-+ [Wikipedia entry](https://en.wikipedia.org/wiki/The_Finer_Points_of_Sausage_Dogs)

@@ -1,13 +1,13 @@
 ---
-title: "List of Irregular Verbs Across Romance Languages" 
-date: 2013-03-07
-lastmod: 2024-07-12
-tags: ["Romance languages","philology","irregular verbs","Portuguese","Italian","French","Spanish","simulations","dataset","python"]
-author: ["Patrick Fitzcarron O'Leary","Florianus Prinzel","Walter Schoeffler-Henschell","Detlev Amadeus Unterholzer", "Dieter Vogelsang","Moritz-Maria von Igelfeld"]
-description: "This dataset contains all irregular verbs in known Romance languages."
-summary: "This dataset contains all irregular verbs in known Romance languages."
+title: "Introduction (Under Work) " 
+date: 2024-12-29
+lastmod: 2024-12-29
+tags: []
+author: ["Siddhant Gupta"]
+description: "Introduction"
+summary: "Introduction"
 editPost:
-    URL: "https://github.com/pmichaillat/hugo-website"
+    URL: ""
     Text: "GitHub repository"
 showToc: true
 disableAnchoredHeadings: false
@@ -15,8 +15,8 @@ disableAnchoredHeadings: false
 ---
 
 ## Overview
-
-This dataset contains all irregular verbs in [all known Romance languages](http://www.alexandermccallsmith.com/series/von-igelfeld-series)—including Portugese, Spanish, French, and Italian. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+I am Siddhant Gupta, a third-year undergraduate student pursuing Industrial Engineering at the Indian Institute of Technology (IIT), Roorkee. My research interests focus on the Natural Language Processing, Model Interpretability, Multimodality, LLM Efficiency and Retrieval 
+I am a regular contributor at the Cohere for AI (C4AI) community, where I regularly engage in discussions on recent research and developments in NLP, Multi-Agentic AI systems, Contextual learning, Synthetic data generation and Mechanistic Interpretability. I also lead teams in multiple AI hackathons as part of my role in my university’s ArIES (Artificial Intelligence and Electronic Society) club, guiding them toward achieving CV and NLP alignment. I am also involved with the Computational Intelligence and Operations Laboratory (CIOL), where my work centers on fine-tuning models across multiple modalities and providing solutions for multilingual text-based challenges.
 
 ---
 
