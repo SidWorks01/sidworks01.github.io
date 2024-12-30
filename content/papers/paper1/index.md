@@ -7,7 +7,6 @@ author: ["Siddhant Gupta","Siddh Singhal", "Azmine Toushik Wasi"]
 description: "Multilingual Hate Speech Detection and Target Identification in Devanagari-Scripted Languages" 
 summary: "Accepted at Chipsal @ COLING 2025. This study addresses hate speech detection and target identification in Devanagari-scripted languages (Hindi, Marathi, Nepali, Bhojpuri, Sanskrit). Subtask B focuses on detecting hate speech, while Subtask C identifies specific targets, such as individuals or communities. The proposed **MultilingualRobertaClass** model, based on the ia-multilingual-transliterated-roberta transformer, uses contextualized embeddings for multilingual and transliterated contexts. It achieved 88.40% accuracy in Subtask B and 66.11% in Subtask C on the test set." 
 cover:
-    image: "paper1.png"
     alt: "Multilingual Hate Speech Detection and Target Identification in Devanagari-Scripted Languages"
     relative: false
 editPost:
