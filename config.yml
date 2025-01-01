@@ -51,7 +51,7 @@ params:
           enabled: true
           title: Siddhant Gupta
           subtitle: "I am Siddhant Gupta, an undergraduate student in Bachelors of Technology (2022-2026) at the Indian Institute of Technology Roorkee (IITR) and an independent researcher collaborating with various open labs and research groups across multiple universities. My primary focus lies in the fields of Model Interpretability, Agentic AI, Multimodal LLMs, and Benchmarking & Evaluations. I thrive on exploring innovative ideas, designing various architectures and frameworks, as well as training models aligned with my research interests. I’m always eager to connect and engage in meaningful discussions with like-minded individuals passionate about AI and solving real world problems."
-          imageUrl: "picture.jpg"
+          imageUrl: "picture.png"
           imageWidth: 160
           imageHeight: 160
           buttons:
