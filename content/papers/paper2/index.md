@@ -5,7 +5,7 @@ lastmod: 2024-12-30
 tags: ["RAG","BM25","Gemma-2","Qwen2.5","Mistral", "Nemo"]
 author: ["Jebish Purbey", "Drishti Sharma", "Siddhant Gupta", "Khawaja Murad", "Siddartha Pullakhandam", "Ram Mohan Rao Kadiyala"]
 description: "Accepted at RegNLP @ COLING 2025 | Secured 4th position in the workshop"
-summary: "Accepted at FINLP-FNP-LLMFinLegal @ COLING 2025 | Secured 4th position in the workshop. Our system for the COLING 2025 RegNLP RIRAG challenge focused on advanced information retrieval and answer generation in regulatory domains. We combined embedding models (Stella, BGE, CDE, Mpnet) with fine-tuning and reranking to retrieve relevant documents. Our novel approach, LeSeR, achieved strong results with a recall@10 of 0.8201 and map@10 of 0.6655. This work demonstrates the potential of NLP techniques in regulatory applications, particularly for retrieval-augmented generation systems, and identifies areas for future improvements in robustness and domain adaptation"
+summary: "Accepted at RegNLP  @ COLING 2025 | Secured 4th position in the workshop. Our system for the COLING 2025 RegNLP RIRAG challenge focused on advanced information retrieval and answer generation in regulatory domains. We combined embedding models (Stella, BGE, CDE, Mpnet) with fine-tuning and reranking to retrieve relevant documents. Our novel approach, LeSeR, achieved strong results with a recall@10 of 0.8201 and map@10 of 0.6655. This work demonstrates the potential of NLP techniques in regulatory applications, particularly for retrieval-augmented generation systems, and identifies areas for future improvements in robustness and domain adaptation"
 cover:
     alt: "Lexical Reranking of Semantic Retrieval (LeSeR) for Regulatory Question Answering"
     relative: false
