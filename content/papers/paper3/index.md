@@ -4,7 +4,7 @@ date: 2024-12-30
 lastmod: 2024-12-30
 tags: ["Qwen","Mistral", "Gemma-2", "LLMs", "LoRA"]
 author: ["Jebish Purbey", "Siddhant Gupta", "Nikhil Manali", "Siddartha Pullakhandam", "Drishti Sharma", "Ashay Srivastava", "Ram Mohan Rao Kadiyala"]
-description: "Accepted at RegNLP @ COLING 2025 | Secured 3rd position in the workshop "
+description: "Accepted at FINLP-FNP-LLMFinLegal @ COLING 2025 | Secured 3rd position in the workshop  "
 summary: "Accepted at RegNLP @ COLING 2025 | Secured 3rd position in the workshop. Our system for the COLING 2025 FMD challenge focused on detecting financial misinformation using large language models (Qwen, Mistral, Gemma-2) combined with pre-processing and sequential learning. It not only classified fraudulent content with an F1-score of 0.8283 but also generated clear explanations, achieving a ROUGE-1 score of 0.7253. This work demonstrates the potential of LLMs in combating financial misinformation, improving transparency, and highlights areas for future enhancements in robustness and domain adaptation."
 cover:
     alt: "Sequential Learning for Claim Verification and Explanation Generation in Financial Domains"
