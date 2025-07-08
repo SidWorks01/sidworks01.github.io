@@ -67,10 +67,8 @@ params:
               url: tags/
 
     socialIcons:
-        - name: Job-market paper
-          url: Sid_s_Resume_July2025.pdf
         - name: CV
-          url: Sid_Research_July.pdf
+          url: Sid_Final_july.pdf
         - name: Email
           url: mailto:writetosiddhant@gmail.com
         - name: LinkedIn
