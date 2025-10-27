@@ -91,7 +91,7 @@ params:
         hiddenInSingle: true
     label:
       text: "Siddhant Gupta"
-      icon: favicon.ico
+      icon: /favicon-mc.ico
       iconHeight: 18
 
 markup:
